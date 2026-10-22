@@ -1,4 +1,4 @@
-<img width="4032" height="1116" alt="image" src="https://github.com/user-attachments/assets/f40d8f56-1f6e-41c5-8388-e8acd70c89e9" /><img width="4032" height="1116" alt="image" src="https://github.com/user-attachments/assets/321b745d-2040-4f7c-9954-bf8004e6e2cd" /># Dynamics CRM Invoice Line Cloner
+# Dynamics CRM Invoice Line Cloner
 
 A reusable custom workflow activity for **Microsoft Dynamics CRM 2015** that copies invoice line items (`invoicedetail`) from one invoice to another.
 
