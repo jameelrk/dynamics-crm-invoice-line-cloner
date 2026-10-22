@@ -73,6 +73,16 @@ The operation is not inherently idempotent. Running it twice creates duplicate t
 
 This project uses no external endpoint and stores no credentials. Before publishing a fork, review the complete Git history and enable GitHub secret scanning/push protection where available.
 
+## ☕ Support This Project
+
+If this project saved you time, solved a Dynamics CRM problem, or helped with your implementation, consider buying me a coffee.
+
+Your support helps me maintain this project and continue publishing practical, free, and open-source tools for the Microsoft and enterprise community.
+
+☕ **YOUR-LINK-HERE**
+
+Every contribution is appreciated, but never required. This project remains free and open source.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
