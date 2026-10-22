@@ -1,4 +1,4 @@
-# Dynamics CRM Invoice Line Cloner
+<img width="4032" height="1116" alt="image" src="https://github.com/user-attachments/assets/f40d8f56-1f6e-41c5-8388-e8acd70c89e9" /><img width="4032" height="1116" alt="image" src="https://github.com/user-attachments/assets/321b745d-2040-4f7c-9954-bf8004e6e2cd" /># Dynamics CRM Invoice Line Cloner
 
 A reusable custom workflow activity for **Microsoft Dynamics CRM 2015** that copies invoice line items (`invoicedetail`) from one invoice to another.
 
@@ -77,11 +77,15 @@ This project uses no external endpoint and stores no credentials. Before publish
 
 If this project saved you time, solved a Dynamics CRM problem, or helped with your implementation, consider buying me a coffee.
 
-Your support helps me maintain this project and continue publishing practical, free, and open-source tools for the Microsoft and enterprise community.
-
-☕ **YOUR-LINK-HERE**
-
 Every contribution is appreciated, but never required. This project remains free and open source.
+
+## 💼 Need Customization or Professional Support?
+
+Need this workflow adapted for custom invoice fields, additional CRM entities, business-specific workflow logic, or another Microsoft Dynamics CRM requirement?
+
+I am available for selected customization, integration, troubleshooting, and enterprise implementation work.
+
+Open a GitHub issue for a general feature request or contact me through my GitHub profile for professional inquiries.
 
 ## License
 
